@@ -1,3 +1,4 @@
+'''This function is for print area of both rectangle and triangle'''
 def area(a,b,shape='triangle'):
     if shape == 'triangle':
         print(f"Base: {a}")
